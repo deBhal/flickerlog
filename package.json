@@ -1,6 +1,6 @@
 {
   "name": "flickerlog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Re-write stdout for progress updates",
   "main": "flickerlog.js",
   "scripts": {
