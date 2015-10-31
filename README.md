@@ -9,7 +9,7 @@ Re-write node stdout for updating progress updates etc:
 		flicker( 'flickerlog.flicker prints strings that get overwritten' );
 		setTimeout( function() {
 		    		log( 'flickerlog.log prints strings normally' );
-		}, 5000 );
+		}, 1000 );
 
 looks like:
 
