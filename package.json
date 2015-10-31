@@ -1,0 +1,27 @@
+{
+  "name": "flickerlog",
+  "version": "1.0.0",
+  "description": "Re-write stdout for progress updates",
+  "main": "flickerlog.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:deBhal/flickerlog.git"
+  },
+  "keywords": [
+    "node",
+    "log",
+    "stdout"
+  ],
+  "author": "Julian de Bhál",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deBhal/flickerlog/issues"
+  },
+  "homepage": "https://github.com/deBhal/flickerlog",
+  "devDependencies": {
+    "test-console": "^1.0.0"
+  }
+}
